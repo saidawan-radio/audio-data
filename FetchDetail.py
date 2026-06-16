@@ -57,6 +57,8 @@ async def fetch_by_internal_id(client:TelegramClient, channel, data, internal_id
     return await fetch_by_msg_id(client, channel, int(msg_id))
         
 async def audio_detail_fetcher(client:TelegramClient, channel, min_id:int, data_limit:int, duration_limit:int, data:dict):
+    if not data_limit or data_limit == "0":
+        data_limit = None
     async for msg in client.iter_messages(channel, min_id=min_id, reverse=True, limit=data_limit):
         if not msg.audio:
             continue
