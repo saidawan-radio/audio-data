@@ -3,7 +3,7 @@ from AudioDetail import AudioDetail
 from telethon import TelegramClient
 from telethon.tl.types import Message
 
-import datetime
+from datetime import datetime
 import json
 import os
 
