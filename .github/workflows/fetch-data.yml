@@ -28,6 +28,14 @@ jobs:
               run: |
                   python -m pip install -r requirements.txt --upgrade pip
 
+            - name: Debug API_ID
+              env:
+                  API_ID: ${{ secrets.API_ID }}
+
+              run: |
+                  echo "API_ID value: '${{ vars.DOWNLOAD_PATH }}'"  
+                  echo "API_ID from secrets: '${{ secrets.API_ID }}'"
+
             - name: Run fetch data script
               env:
                 SESSION_STR: ${{ secrets.SESSION_STR }}
