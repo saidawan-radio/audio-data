@@ -10,6 +10,7 @@ proxy = ("http", "127.0.0.1", 10808)
 
 data = load_json(conf.DATA_FILE_PATH)
 SESSION_STR = conf.SESSION_STR
+print(SESSION_STR)
 session = StringSession(SESSION_STR)
 client = TelegramClient(session, conf.API_ID, conf.API_HASH, proxy=proxy)
 
