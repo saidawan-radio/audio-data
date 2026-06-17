@@ -6,13 +6,12 @@ import asyncio
 
 create_and_fill_if_empty(conf.DATA_FILE_PATH, conf.JSON_DATA_FORM)
 
-proxy = ("http", "127.0.0.1", 10808)
+# proxy = ("http", "127.0.0.1", 10808)
 
 data = load_json(conf.DATA_FILE_PATH)
 SESSION_STR = conf.SESSION_STR
-print(SESSION_STR)
 session = StringSession(SESSION_STR)
-client = TelegramClient(session, conf.API_ID, conf.API_HASH, proxy=proxy)
+client = TelegramClient(session, conf.API_ID, conf.API_HASH)
 
 
 async def main():
