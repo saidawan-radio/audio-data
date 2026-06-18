@@ -33,7 +33,14 @@ def audio_detail_update(audio:AudioDetail, data:dict):
     stored_detail_id = data["map_msg_id"][audio.msg_id]
     stored_detail = data["audio_info"][stored_detail_id]
     if load_datetime(audio.edit_date, conf.DATE_FORMAT) > load_datetime(stored_detail["edit_date"], conf.DATE_FORMAT):
+        # Keep file name and document id
+        filename = data["audio_info"][stored_detail_id]["filename"]
+        docid = data["audio_info"][stored_detail_id]["document_id"]
+        
         data["audio_info"][stored_detail_id] = audio.to_dict()
+        
+        data["audio_info"][stored_detail_id]["document_id"] = filename
+        data["audio_info"][stored_detail_id]["document_id"] = docid
         
 def load_datetime(strdate, strformat):
     return datetime.strptime(strdate, strformat)
