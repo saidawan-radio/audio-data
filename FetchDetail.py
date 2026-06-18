@@ -11,7 +11,7 @@ def create_and_fill_if_empty(file_path:str, default_data:dict):
     if os.path.dirname(file_path):
         os.makedirs(os.path.dirname(file_path), exist_ok=True)
     
-    if not os.path.exists(file_path) or os.path.getsize(file_path) == 0:
+    if not os.path.exists(file_path) or os.path.getsize(file_path) <= 3:
         with open(file_path, 'w') as f:
             json.dump(default_data, f, indent=2)
         print(f"Created/updated {file_path} with data")
