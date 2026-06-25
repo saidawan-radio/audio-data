@@ -1,0 +1,7 @@
+.session_string
+.env
+telegram_app_api
+data.json
+session_1234567890.session
+__pycache__
+.token
