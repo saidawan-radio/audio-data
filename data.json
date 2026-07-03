@@ -3922,9 +3922,9 @@
         },
         "197": {
             "id": "197",
-            "title": "Bgarewa [320]",
-            "performer": "Mikail Mahabadi",
-            "duration": 213,
+            "title": "Bgarewa",
+            "performer": "Mikail Mahamadi",
+            "duration": 214,
             "date": "20250131-0541",
             "author_name": "‏∞... A.R...∞",
             "channel": {
@@ -3934,16 +3934,16 @@
             },
             "msg_id": "369",
             "message": "بگه‌ڕێوه -میکاییل",
-            "filename": "197_saidaWan_Mikail-Mahabadi_20250131-0541.mp3",
+            "filename": "197_saidaWan_Bgarewa_Mikail-Mahamadi_20250131-0541.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20250131-0542",
+            "edit_date": "20260702-1918",
             "size": 9,
             "document_id": 5827978489881434576
         },
         "198": {
             "id": "198",
-            "title": null,
-            "performer": null,
+            "title": "Ahmet kaya",
+            "performer": "Ahmet kaya",
             "duration": 277,
             "date": "20250131-0729",
             "author_name": "Amin Kareshi",
@@ -3954,9 +3954,9 @@
             },
             "msg_id": "370",
             "message": "",
-            "filename": "198_saidaWan_20250131-0729.mp3",
+            "filename": "198_saidaWan_Ahmet-kaya_Ahmet-kaya_20250131-0729.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20250131-0729",
+            "edit_date": "20260702-1916",
             "size": 5,
             "document_id": 5803356468870650079
         },
@@ -4036,7 +4036,7 @@
             "message": "ئەی تەمەنی پڕ ئەسرینم ئەڕۆی ئاوڕ نادەیتەوە\nلەگەڵ هەموو هەنگاوێکدا لە عومری من ئەسڕێیتەوە\nخۆزگە منیش وەک پەپولە گشت تەمەنم وەرزێ بوایە\n~>\nکەریم کابان",
             "filename": "202_saidaWan_Taman_Karim-Kaban_20250203-0903.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20250203-1112",
+            "edit_date": "20260702-1921",
             "size": 13,
             "document_id": 5837028290916784114
         },
@@ -4062,7 +4062,7 @@
         },
         "204": {
             "id": "204",
-            "title": "Sarva",
+            "title": "سروه",
             "performer": "Ahmad Lawa",
             "duration": 424,
             "date": "20250205-1433",
@@ -4074,9 +4074,9 @@
             },
             "msg_id": "377",
             "message": "سروه - ئه‌حمه‌د لاوه",
-            "filename": "204_saidaWan_Sarva_Ahmad-Lawa_20250205-1433.mp3",
+            "filename": "204_saidaWan_Ahmad-Lawa_20250205-1433.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20250205-1433",
+            "edit_date": "20260702-1923",
             "size": 7,
             "document_id": 5845913135143195823
         },
@@ -4096,7 +4096,7 @@
             "message": "من وەکوو بولبول لە ناو باخا گەڕاوم بێ ژومار\nچڵ بە چڵ دیمەن بە دیمەن کاتی فەسڵی نەوبەهار\nدەمچنی تاک تاک گوڵاڵەی ئاڵ و بۆندار و دیار\nگشتی بێسوود بوو لە لام نەیبوو جوانی کوڵمی یار\nوەرە یا شیرین نیگار ئەی نەمامی ناو گوڵزار\n~>\nمیکائیل مەهابادی",
             "filename": "205_saidaWan_Mikael-Mahabadi_20250205-1438.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20250208-1655",
+            "edit_date": "20260702-1924",
             "size": 5,
             "document_id": 5852820898549077397
         },
@@ -4233,10 +4233,10 @@
                 "name": "سەیدەوان"
             },
             "msg_id": "391",
-            "message": "مەقام: هێند دڵم تەنگە\nگۆرانی: مامە گیانی مامە\nشیعر(lyrics)",
+            "message": "مەقام: هێند دڵم تەنگە\nگۆرانی: مامە گیانی مامە",
             "filename": "212_saidaWan_20250210-2130.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20250210-2131",
+            "edit_date": "20260702-1927",
             "size": 9,
             "document_id": 5922326246926062951
         },
@@ -4276,13 +4276,13 @@
             "message": "Gundê hember gundê me ye\nQe ku tune sed mal heye\nGunde ku qiz û buk te de tune\nEw gunda jî xirabe ye\n~>\naynur doğan",
             "filename": "214_saidaWan_Zere_20250211-1906.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20250211-2116",
+            "edit_date": "20260702-1928",
             "size": 5,
             "document_id": 5863782733125261929
         },
         "215": {
             "id": "215",
-            "title": "Naylone",
+            "title": "Naylona",
             "performer": "Mohammad Mamle",
             "duration": 423,
             "date": "20250212-1520",
@@ -4294,9 +4294,9 @@
             },
             "msg_id": "395",
             "message": "نایلۆنە -ماملێ",
-            "filename": "215_saidaWan_Naylone_Mohammad-Mamle_20250212-1520.mp3",
+            "filename": "215_saidaWan_Naylona_Mohammad-Mamle_20250212-1520.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20250212-1522",
+            "edit_date": "20260702-1930",
             "size": 7,
             "document_id": 5866449602873400086
         },
@@ -4322,9 +4322,9 @@
         },
         "217": {
             "id": "217",
-            "title": "Ey Baghavan",
+            "title": "Ey baghavan",
             "performer": "Mohammad Mamle",
-            "duration": 360,
+            "duration": 359,
             "date": "20250213-0503",
             "author_name": "‏∞... A.R...∞",
             "channel": {
@@ -4334,15 +4334,15 @@
             },
             "msg_id": "397",
             "message": "ئه‌ی باغه‌وان - ماملێ",
-            "filename": "217_saidaWan_Ey-Baghavan_Mohammad-Mamle_20250213-0503.mp3",
+            "filename": "217_saidaWan_Ey-baghavan_Mohammad-Mamle_20250213-0503.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20250213-0503",
+            "edit_date": "20260702-1932",
             "size": 6,
             "document_id": 5868701402687085113
         },
         "218": {
             "id": "218",
-            "title": "Men Dalem Shari Delm",
+            "title": "شاری دڵ",
             "performer": "Naser Razazi",
             "duration": 495,
             "date": "20250213-0512",
@@ -4354,15 +4354,15 @@
             },
             "msg_id": "398",
             "message": "شاری دڵم - ناصر",
-            "filename": "218_saidaWan_Men-Dalem-Shari-Delm_Naser-Razazi_20250213-0512.mp3",
+            "filename": "218_saidaWan_Naser-Razazi_20250213-0512.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20250213-0714",
-            "size": 8,
+            "edit_date": "20260702-1940",
+            "size": 9,
             "document_id": 5868701402687085116
         },
         "219": {
             "id": "219",
-            "title": "Shari Del",
+            "title": "شاری دڵ",
             "performer": "Mohammad Mamle",
             "duration": 331,
             "date": "20250213-0512",
@@ -4374,9 +4374,9 @@
             },
             "msg_id": "399",
             "message": "شاری دڵم - ماملێ",
-            "filename": "219_saidaWan_Shari-Del_Mohammad-Mamle_20250213-0512.mp3",
+            "filename": "219_saidaWan_Mohammad-Mamle_20250213-0512.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20250213-0513",
+            "edit_date": "20260702-1942",
             "size": 6,
             "document_id": 5868701402687085117
         },
@@ -4562,9 +4562,9 @@
         },
         "229": {
             "id": "229",
-            "title": null,
-            "performer": null,
-            "duration": 240,
+            "title": "Barge Khazan",
+            "performer": "Marzieh",
+            "duration": 378,
             "date": "20250223-2112",
             "author_name": null,
             "channel": {
@@ -4573,17 +4573,17 @@
                 "name": "سەیدەوان"
             },
             "msg_id": "410",
-            "message": "گەر بەهەشتی پێم بڵێ\nتا کڕنووش بەم بۆ گشت خوواکان\nگەر دۆزەخی پێم بڵێ\nتا زەمین پڕ کەم لە تاوان",
-            "filename": "229_saidaWan_20250223-2112.mp3",
+            "message": "",
+            "filename": "229_saidaWan_Barge-Khazan_Marzieh_20250223-2112.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20250224-1820",
-            "size": 6,
+            "edit_date": "20260702-1948",
+            "size": 7,
             "document_id": 5897812540695516508
         },
         "230": {
             "id": "230",
-            "title": null,
-            "performer": null,
+            "title": "ئەی خودا",
+            "performer": "نادیار",
             "duration": 244,
             "date": "20250223-2201",
             "author_name": "‏∞... A.R...∞",
@@ -4593,10 +4593,10 @@
                 "name": "سەیدەوان"
             },
             "msg_id": "411",
-            "message": "ئه‌ی خودا",
+            "message": "",
             "filename": "230_saidaWan_20250223-2201.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20250223-2202",
+            "edit_date": "20260702-1951",
             "size": 4,
             "document_id": 5897812540695516518
         },
@@ -4636,7 +4636,7 @@
             "message": "",
             "filename": "232_saidaWan_Keras-Zarde_Naser-Razazi_20250224-1904.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20250224-1906",
+            "edit_date": "20260702-1952",
             "size": 8,
             "document_id": 5899772922683200784
         },
@@ -4662,8 +4662,8 @@
         },
         "234": {
             "id": "234",
-            "title": null,
-            "performer": null,
+            "title": "مەیگێڕ",
+            "performer": "Mamlê",
             "duration": 328,
             "date": "20250226-0500",
             "author_name": "‏∞... A.R...∞",
@@ -4673,10 +4673,10 @@
                 "name": "سەیدەوان"
             },
             "msg_id": "415",
-            "message": "مەیگێڕ وەرەقۆڵ هەڵکە گڵێنەت بێنە… \nماملێ",
+            "message": "مەیگێڕ وەرەقۆڵ هەڵکە گڵێنەت بێنە…",
             "filename": "234_saidaWan_20250226-0500.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20250226-0501",
+            "edit_date": "20260702-2002",
             "size": 6,
             "document_id": 5904260819910138007
         },
@@ -4696,8 +4696,8 @@
             "message": "",
             "filename": "235_saidaWan_Deltangi_Hani-Mojtahedi_20250226-2232.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20250227-0909",
-            "size": 6,
+            "edit_date": "20260702-1953",
+            "size": 7,
             "document_id": 5776042212034875047
         },
         "236": {
@@ -4716,7 +4716,7 @@
             "message": "من شەپۆلی شێت باوەشت کەنار\nدێمە کەنارت مەست و بێ قەرار\nتۆ بای سەرکەشی ناکەویتە داو\nتا دێم ڕاتبگرم هەڵ ئەکەی بە تاو \n~>\nهانی موجتەهیدی",
             "filename": "236_saidaWan_Hani-Mojtahedi_20250227-0831.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20250301-1324",
+            "edit_date": "20260702-1954",
             "size": 8,
             "document_id": 5913289966447761306
         },
@@ -4776,7 +4776,7 @@
             "message": "بۆنی بەهار -نه‌جمه",
             "filename": "239_saidaWan_Boni-Bahar-_Najmadin-Gholami-_20250228-1840.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20250228-1841",
+            "edit_date": "20260702-1956",
             "size": 11,
             "document_id": 5913289966447761456
         },
@@ -4796,7 +4796,7 @@
             "message": "شەوانە تا بەیانی من غەمینم\nلەشیرینی خەویش دا تۆ دەبینم\nمەڕۆ لام وەرەوە ڕۆحی شیرینم\n\nئەمن شێتم لە دوای تۆ\nئیتر وێڵم لە دوای تۆ\nئیتر خاکم لە پای تۆ\n~>\nحەسەن دەرزی",
             "filename": "240_saidaWan_Hasan-Darzi_20250228-1900.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20250301-1335",
+            "edit_date": "20260702-1955",
             "size": 8,
             "document_id": 5915873621204538907
         },
@@ -4816,7 +4816,7 @@
             "message": "پیری موغان -نه‌جمه",
             "filename": "241_saidaWan_Piri-Moqan_Najmadin-Gholami_20250301-2044.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20250301-2045",
+            "edit_date": "20260702-1957",
             "size": 7,
             "document_id": 5915873621204539109
         },
@@ -4876,7 +4876,7 @@
             "message": "هه‌ی ڕۆ هه‌ی ڕۆ ڕۆ ڕۆمه‌بۆ\nئه‌وباوکه‌ی مه‌رگی بو به‌هۆ\nتۆبێ هانابی وڕه‌نجه‌ڕۆ\nئه‌ی کورپه‌ی ساوای دڵ به‌سۆ\n~>\nناسر ڕەزازی",
             "filename": "244_saidaWan_Naser-Razazi_20250306-1802.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20250311-0904",
+            "edit_date": "20260702-1957",
             "size": 5,
             "document_id": 5945219255837398153
         },
@@ -4903,7 +4903,7 @@
         "246": {
             "id": "246",
             "title": "Gîrode",
-            "performer": "Reza BabaMîrî [@HevallanMusic]",
+            "performer": "Reza BabaMîrî",
             "duration": 181,
             "date": "20250308-1046",
             "author_name": null,
@@ -4916,7 +4916,7 @@
             "message": "بە دڵ گیرۆدە بەو پرچی بەچینم\nڕەش و ئاڵۆزە وەک ئەو بەخت و ژینم\nدڵت گرتم، خەیاڵی خۆت تیا دی\nخەوت بردم کە لەودا تۆ دەبینم *",
             "filename": "246_saidaWan_20250308-1046.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20250309-0001",
+            "edit_date": "20260702-1959",
             "size": 2,
             "document_id": 5936302306730448730
         },
@@ -5142,8 +5142,8 @@
         },
         "258": {
             "id": "258",
-            "title": "[Harir Harira] ~[SevilMusic.Com]~",
-            "performer": "[Naser Razazi]",
+            "title": "Harir Harira",
+            "performer": "Naser Razazi",
             "duration": 324,
             "date": "20250321-0645",
             "author_name": "‏∞... A.R...∞",
@@ -5154,9 +5154,9 @@
             },
             "msg_id": "440",
             "message": "حه‌ریر حه‌ریره - مامۆستا ناسر",
-            "filename": "258_saidaWan_20250321-0645.mp3",
+            "filename": "258_saidaWan_Harir-Harira_Naser-Razazi_20250321-0645.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20250321-0646",
+            "edit_date": "20260702-2005",
             "size": 6,
             "document_id": 5976744040912131939
         },
