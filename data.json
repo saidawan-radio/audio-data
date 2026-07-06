@@ -6882,8 +6882,8 @@
         },
         "345": {
             "id": "345",
-            "title": "@radio_serberz",
-            "performer": "ڕەزازی/هاتەوە تەیرەکەی گەرمێنێ",
+            "title": "هاتەوە تەیرەکەی گەرمێنێ",
+            "performer": "Naser Razazi",
             "duration": 263,
             "date": "20250915-2023",
             "author_name": "Amin Kareshi",
@@ -6894,16 +6894,16 @@
             },
             "msg_id": "548",
             "message": "",
-            "filename": "345_saidaWan_radio-serberz_20250915-2023.mp3",
+            "filename": "345_saidaWan_Naser-Razazi_20250915-2023.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20250916-1223",
+            "edit_date": "20260706-1444",
             "size": 5,
             "document_id": 5927017790027340061
         },
         "346": {
             "id": "346",
-            "title": "Zakaria Abdulla",
-            "performer": "ʜ_ᴀᴍɪꜱʜᴇɢɪᴍɪᥫ᭡",
+            "title": "نەمزانی ڕۆژێ دادێ",
+            "performer": "Zakaria Abdulla",
             "duration": 279,
             "date": "20250915-2026",
             "author_name": "Amin Kareshi",
@@ -6916,7 +6916,7 @@
             "message": "••\n\nنەمزانی ڕۆژێ دادێ گیانە تۆ بە جێم دێڵی\nساردی ئەم وڵاتە لە ناخی دڵدا دەکێڵی",
             "filename": "346_saidaWan_Zakaria-Abdulla_20250915-2026.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20250915-2151",
+            "edit_date": "20260706-1447",
             "size": 5,
             "document_id": 5925034962540567785
         },
@@ -7002,8 +7002,8 @@
         },
         "351": {
             "id": "351",
-            "title": "موحەمەد ماملێ | مەشموول",
-            "performer": "@TRUOSKEH | ترووسکه",
+            "title": "مەشموول",
+            "performer": "Mohamad Mamle",
             "duration": 280,
             "date": "20251011-1518",
             "author_name": "Mehran",
@@ -7014,16 +7014,16 @@
             },
             "msg_id": "555",
             "message": "",
-            "filename": "351_saidaWan_20251011-1518.mp3",
+            "filename": "351_saidaWan_Mohamad-Mamle_20251011-1518.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20251011-1518",
+            "edit_date": "20260706-1432",
             "size": 12,
             "document_id": 5985635752791250984
         },
         "352": {
             "id": "352",
-            "title": "Shoresh Mahmoodi | CawarimKerdi",
-            "performer": "T.me/Hiway_azadi",
+            "title": "CawarimKerdi",
+            "performer": "Shoresh Mahmoodi",
             "duration": 413,
             "date": "20251013-1104",
             "author_name": "Amin Kareshi",
@@ -7034,16 +7034,16 @@
             },
             "msg_id": "556",
             "message": "چاوەڕێی تیشکی هەتاوو بوم\nبەڵام هەوری ڕەش \nدایپۆشی\n🖤",
-            "filename": "352_saidaWan_Shoresh-Mahmoodi-CawarimKerdi_20251013-1104.mp3",
+            "filename": "352_saidaWan_CawarimKerdi_Shoresh-Mahmoodi_20251013-1104.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20251013-1119",
+            "edit_date": "20260706-1437",
             "size": 17,
             "document_id": 5893100630859321684
         },
         "353": {
             "id": "353",
             "title": "Çawerêm kirdî",
-            "performer": "Reza YûsifBeygî [@HevallanMusic]",
+            "performer": "Reza YûsifBeygî",
             "duration": 264,
             "date": "20251013-1655",
             "author_name": null,
@@ -7056,7 +7056,7 @@
             "message": "",
             "filename": "353_saidaWan_20251013-1655.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20251014-0648",
+            "edit_date": "20260706-1440",
             "size": 4,
             "document_id": 6010364374890323038
         },
@@ -7142,7 +7142,7 @@
         },
         "358": {
             "id": "358",
-            "title": "ئۆخەی گەورە کچ | ناسر ڕەزازی",
+            "title": "ئۆخەی گەورە کچ",
             "performer": "ناسر ڕەزازی",
             "duration": 247,
             "date": "20251103-0559",
@@ -7156,8 +7156,8 @@
             "message": "-ناسر ڕەزازی، ئۆخەی گەورەکچ",
             "filename": "358_saidaWan_20251103-0559.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20251103-0818",
-            "size": 5,
+            "edit_date": "20260706-1550",
+            "size": 4,
             "document_id": 5785272479006071356
         },
         "359": {
@@ -7282,8 +7282,8 @@
         },
         "365": {
             "id": "365",
-            "title": "Hani Mojtahedy - Gardoon (prod. by@5iamand)",
-            "performer": null,
+            "title": "Gardoon",
+            "performer": "Hani Mojtahedi",
             "duration": 183,
             "date": "20251115-1923",
             "author_name": "Amin Kareshi",
@@ -7294,17 +7294,17 @@
             },
             "msg_id": "570",
             "message": "Hani Mojtahedy - Gardoon",
-            "filename": "365_saidaWan_20251115-1923.mp3",
+            "filename": "365_saidaWan_Gardoon_Hani-Mojtahedi_20251115-1923.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20260409-0623",
+            "edit_date": "20260706-1546",
             "size": 3,
             "document_id": 5821204750930026929
         },
         "366": {
             "id": "366",
-            "title": "Sawza Hay Limo 3",
-            "performer": null,
-            "duration": 309,
+            "title": "Sawza Hay Limo",
+            "performer": "Mohamad Mamle",
+            "duration": 308,
             "date": "20251120-0921",
             "author_name": "A.R",
             "channel": {
@@ -7314,10 +7314,10 @@
             },
             "msg_id": "571",
             "message": "سه‌وزه هه‌ی لیمۆ - ماملێ",
-            "filename": "366_saidaWan_Sawza-Hay-Limo-3_20251120-0921.mp3",
+            "filename": "366_saidaWan_Sawza-Hay-Limo_Mohamad-Mamle_20251120-0921.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20251120-0921",
-            "size": 5,
+            "edit_date": "20260706-1543",
+            "size": 6,
             "document_id": 5832481578407696390
         },
         "367": {
@@ -7383,7 +7383,7 @@
         "370": {
             "id": "370",
             "title": "Toş Becêm Dêłî",
-            "performer": "Hesen Derzî [@HevallanMusic]",
+            "performer": "Hesen Derzî",
             "duration": 102,
             "date": "20251130-1746",
             "author_name": "A.R",
@@ -7396,7 +7396,7 @@
             "message": "تۆش بە جێم دێڵی - حەسەن دەرزی",
             "filename": "370_saidaWan_20251130-1746.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20251130-1747",
+            "edit_date": "20260706-1542",
             "size": 2,
             "document_id": 5794102515154820448
         },
@@ -7453,17 +7453,17 @@
                 "name": "سەیدەوان"
             },
             "msg_id": "578",
-            "message": "#لەیلا_فەریقی\nبا دڵم بگری",
+            "message": "لەیلا فەریقی\nبا دڵم بگری\n.",
             "filename": "373_saidaWan_20251208-1144.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20251208-1144",
+            "edit_date": "20260706-1539",
             "size": 15,
             "document_id": 5821208139659221798
         },
         "374": {
             "id": "374",
-            "title": "Nasir Rezazî | Zara",
-            "performer": "@KBC_LM",
+            "title": "Zara",
+            "performer": "Nasr Rezazi",
             "duration": 654,
             "date": "20251209-0651",
             "author_name": "Amin Kareshi",
@@ -7474,9 +7474,9 @@
             },
             "msg_id": "579",
             "message": "",
-            "filename": "374_saidaWan_KBC-LM_20251209-0651.mp3",
+            "filename": "374_saidaWan_Zara_Nasr-Rezazi_20251209-0651.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20251209-0651",
+            "edit_date": "20260706-1531",
             "size": 11,
             "document_id": 5837110582490176657
         },
@@ -7502,9 +7502,9 @@
         },
         "376": {
             "id": "376",
-            "title": "Şar",
+            "title": "شار",
             "performer": "Hassan Darzi",
-            "duration": 0,
+            "duration": 387,
             "date": "20251210-2213",
             "author_name": "Mehran",
             "channel": {
@@ -7513,10 +7513,10 @@
                 "name": "سەیدەوان"
             },
             "msg_id": "581",
-            "message": "دڵم پڕە لە دەرد و کوڵ\nئەڵێم بڕۆم لە شارەکەت..",
+            "message": "وەڕەز بوو گیانی من لە شار و هاڕەهاڕی ئەو\nلە ڕۆژی چڵکنی نەخۆش و تاوو یاوی شەو\nدەڵێم بڕۆم لە شارەکەت گوڵم\nلە شارە پڕ هاوارەکەت\n\nسوارە ئیلخانیزادە",
             "filename": "376_saidaWan_Hassan-Darzi_20251210-2213.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20251211-0529",
+            "edit_date": "20260705-1522",
             "size": 7,
             "document_id": 5985571757778539163
         },
@@ -7642,7 +7642,7 @@
         },
         "383": {
             "id": "383",
-            "title": "Bahari Jin [320]",
+            "title": "Bahari Jin",
             "performer": "Najmadin Gholami",
             "duration": 455,
             "date": "20260102-0824",
@@ -7654,9 +7654,9 @@
             },
             "msg_id": "588",
             "message": "بەهاری ژین - نەجمە",
-            "filename": "383_saidaWan_Najmadin-Gholami_20260102-0824.mp3",
+            "filename": "383_saidaWan_Bahari-Jin_Najmadin-Gholami_20260102-0824.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20260102-0835",
+            "edit_date": "20260705-1538",
             "size": 19,
             "document_id": 5963191606617054932
         },
@@ -7682,7 +7682,7 @@
         },
         "385": {
             "id": "385",
-            "title": "Shwan [320]",
+            "title": "Shwan",
             "performer": "Hasan Zirak",
             "duration": 235,
             "date": "20260104-1055",
@@ -7694,9 +7694,9 @@
             },
             "msg_id": "590",
             "message": "",
-            "filename": "385_saidaWan_Hasan-Zirak_20260104-1055.mp3",
+            "filename": "385_saidaWan_Shwan_Hasan-Zirak_20260104-1055.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20260104-1103",
+            "edit_date": "20260705-1534",
             "size": 10,
             "document_id": 5967450126820580832
         },
@@ -7753,10 +7753,10 @@
                 "name": "سەیدەوان"
             },
             "msg_id": "593",
-            "message": "خەمی ئێوەیە هەموو خۆراکم\nشەوی تاریکە ڕۆژی ڕووناکم\nبەرد ئەسووتێنێ گەرمی هەناسەم\nبە سۆزی دڵ و ئاگری تاسەم..\n.\n.",
+            "message": "خەمی ئێوەیە هەموو خۆراکم\nشەوی تاریکە ڕۆژی ڕووناکم\nبەرد ئەسووتێنێ گەرمی هەناسەم\nبە سۆزی دڵ و ئاگری تاسەم..\n.",
             "filename": "388_saidaWan_marziye-frighi_20260107-0934.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20260619-1740",
+            "edit_date": "20260705-1531",
             "size": 7,
             "document_id": 5884292980080123355
         },
@@ -7842,8 +7842,8 @@
         },
         "393": {
             "id": "393",
-            "title": "Derdo - Eyman Adal",
-            "performer": "@halfrin",
+            "title": "Derdo",
+            "performer": "Eyman Adal",
             "duration": 194,
             "date": "20260123-1019",
             "author_name": "Amin Kareshi",
@@ -7854,9 +7854,9 @@
             },
             "msg_id": "599",
             "message": "ڕۆژئاوا💔",
-            "filename": "393_saidaWan_Derdo-Eyman-Adal_halfrin_20260123-1019.mp3",
+            "filename": "393_saidaWan_Derdo_Eyman-Adal_20260123-1019.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20260123-1059",
+            "edit_date": "20260705-1530",
             "size": 4,
             "document_id": 6023784395343667301
         },
@@ -7882,8 +7882,8 @@
         },
         "395": {
             "id": "395",
-            "title": "وەتەن/ حەسەن کاکایی",
-            "performer": null,
+            "title": "وەتەن",
+            "performer": "Hasan kakaie",
             "duration": 394,
             "date": "20260130-0906",
             "author_name": "Amin Kareshi",
@@ -7894,9 +7894,9 @@
             },
             "msg_id": "601",
             "message": "نامەوێ ئەم ژینە تاڵە یا وەتەن یا مردنم",
-            "filename": "395_saidaWan_20260130-0906.mp3",
+            "filename": "395_saidaWan_Hasan-kakaie_20260130-0906.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20260130-1227",
+            "edit_date": "20260705-1528",
             "size": 5,
             "document_id": 5818873395437112613
         },
@@ -8042,8 +8042,8 @@
         },
         "403": {
             "id": "403",
-            "title": null,
-            "performer": null,
+            "title": "سەوزەڵێ",
+            "performer": "Naser Razazi",
             "duration": 384,
             "date": "20260214-0732",
             "author_name": "A.R",
@@ -8054,9 +8054,9 @@
             },
             "msg_id": "609",
             "message": "سەوزەڵێ - ناسر ڕەزازی",
-            "filename": "403_saidaWan_20260214-0732.mp3",
-            "mime_type": "audio/mpeg",
-            "edit_date": "20260214-0910",
+            "filename": "403_saidaWan_Naser-Razazi_20260214-0732.m4a",
+            "mime_type": "audio/mp4",
+            "edit_date": "20260706-1525",
             "size": 13,
             "document_id": 5800828425350423176
         },
@@ -8383,7 +8383,7 @@
         "420": {
             "id": "420",
             "title": "Gulbarin",
-            "performer": null,
+            "performer": "Hani Mojtahedi",
             "duration": 319,
             "date": "20260609-2056",
             "author_name": "Amin Kareshi",
@@ -8394,9 +8394,9 @@
             },
             "msg_id": "632",
             "message": "Hani❤️",
-            "filename": "420_saidaWan_Gulbarin_20260609-2056.mp3",
+            "filename": "420_saidaWan_Gulbarin_Hani-Mojtahedi_20260609-2056.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20260609-2057",
+            "edit_date": "20260705-1526",
             "size": 6,
             "document_id": 5856955813888793982
         },
@@ -8439,6 +8439,26 @@
             "edit_date": "20260617-1837",
             "size": 11,
             "document_id": 5879725832116643578
+        },
+        "423": {
+            "id": "423",
+            "title": "Ay Yari Nazdar",
+            "performer": "Agreen Dilshad",
+            "duration": 353,
+            "date": "20260706-0916",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "638",
+            "message": "",
+            "filename": "423_saidaWan_Ay-Yari-Nazdar_Agreen-Dilshad_20260706-0916.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260706-0934",
+            "size": 6,
+            "document_id": 5933598702127030242
         }
     },
     "map_msg_id": {
@@ -8863,9 +8883,10 @@
         "626": "419",
         "632": "420",
         "633": "421",
-        "634": "422"
+        "634": "422",
+        "638": "423"
     },
     "general_info": {
-        "last_internal_id": 422
+        "last_internal_id": 423
     }
 }
