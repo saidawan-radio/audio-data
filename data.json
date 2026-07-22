@@ -8476,9 +8476,29 @@
             "message": "",
             "filename": "424_saidaWan_Mikail-Aslan_20260716-1819.m4a",
             "mime_type": "audio/mp4",
-            "edit_date": "20260716-1819",
+            "edit_date": "20260716-2205",
             "size": 6,
             "document_id": 5965256824461466457
+        },
+        "425": {
+            "id": "425",
+            "title": "مرا خود با تو سری",
+            "performer": "Mohsen Nmajoo",
+            "duration": 196,
+            "date": "20260722-1934",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "640",
+            "message": "مرا خود با تو سری در میان هست\nو گر نه روی زیبا در جهان هست\n\nوجودی دارم از مهرت گدازان\nوجودم رفت و مهرت همچنان هست\nسعدی\n~>\nمحسن نامجو",
+            "filename": "425_saidaWan_Mohsen-Nmajoo_20260722-1934.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260722-1934",
+            "size": 4,
+            "document_id": 5983108014213701473
         }
     },
     "map_msg_id": {
@@ -8905,9 +8925,10 @@
         "633": "421",
         "634": "422",
         "638": "423",
-        "639": "424"
+        "639": "424",
+        "640": "425"
     },
     "general_info": {
-        "last_internal_id": 424
+        "last_internal_id": 425
     }
 }
