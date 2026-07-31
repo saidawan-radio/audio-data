@@ -8616,9 +8616,29 @@
             "message": "بُوَد آیا که درِ میکده‌ها بگشایند؟\nگره از کارِ فروبستهٔ ما بگشایند؟\n\nدرِ میخانه ببستند خدایا مپسند\nکه درِ خانهٔ تزویر و ریا بگشایند\nحافظ\n~>\nمحمد معتمدی",
             "filename": "431_saidaWan_Khorushe-Yar_Mohamad-Motamedi_20260728-2110.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20260728-2110",
+            "edit_date": "20260729-1428",
             "size": 5,
             "document_id": 6001149002865712397
+        },
+        "432": {
+            "id": "432",
+            "title": "Omide Janam",
+            "performer": "Delkash",
+            "duration": 359,
+            "date": "20260730-1730",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "650",
+            "message": "",
+            "filename": "432_saidaWan_Omide-Janam_Delkash_20260730-1730.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260730-1739",
+            "size": 15,
+            "document_id": 6005551043696401771
         }
     },
     "map_msg_id": {
@@ -9052,9 +9072,10 @@
         "645": "428",
         "646": "429",
         "647": "430",
-        "648": "431"
+        "648": "431",
+        "650": "432"
     },
     "general_info": {
-        "last_internal_id": 431
+        "last_internal_id": 432
     }
 }
