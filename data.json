@@ -8679,6 +8679,26 @@
             "edit_date": "20260802-1219",
             "size": 8,
             "document_id": 6012797873295466689
+        },
+        "435": {
+            "id": "435",
+            "title": "وەرە ئەی باوانم",
+            "performer": "Foad Yareh & Loghman",
+            "duration": 191,
+            "date": "20260804-0421",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "656",
+            "message": "",
+            "filename": "435_saidaWan_Foad-Yareh-Loghman_20260804-0421.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260804-1205",
+            "size": 4,
+            "document_id": 6019448149116984019
         }
     },
     "map_msg_id": {
@@ -9115,9 +9135,10 @@
         "648": "431",
         "650": "432",
         "651": "433",
-        "653": "434"
+        "653": "434",
+        "656": "435"
     },
     "general_info": {
-        "last_internal_id": 434
+        "last_internal_id": 435
     }
 }
