@@ -8799,6 +8799,26 @@
             "edit_date": "20260819-1548",
             "size": 6,
             "document_id": 5773891803514151378
+        },
+        "441": {
+            "id": "441",
+            "title": "بم خوانی-ای دل مجنون",
+            "performer": "MohamadReza Shajarian",
+            "duration": 302,
+            "date": "20260823-2310",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "663",
+            "message": "عشق را بی‌خویش بردی در حرم\nعقل را بیگانه کردی عاقبت\nشمع عالم بود لطف چاره‌گر\nشمع را پروانه کردی عاقبت\nحافظ\n~>\nمحمدرضا شجریان",
+            "filename": "441_saidaWan_MohamadReza-Shajarian_20260823-2310.m4a",
+            "mime_type": "audio/mp4",
+            "edit_date": "20260823-2317",
+            "size": 4,
+            "document_id": 6041625693786217383
         }
     },
     "map_msg_id": {
@@ -9241,9 +9261,10 @@
         "658": "437",
         "659": "438",
         "660": "439",
-        "661": "440"
+        "661": "440",
+        "663": "441"
     },
     "general_info": {
-        "last_internal_id": 440
+        "last_internal_id": 441
     }
 }
