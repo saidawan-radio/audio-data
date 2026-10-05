@@ -8962,7 +8962,7 @@
         },
         "449": {
             "id": "449",
-            "title": "Del La Sinam Darcho [320]",
+            "title": "دڵ لە سینەم دەرچوو",
             "performer": "Saeed Mohamadi",
             "duration": 273,
             "date": "20260927-2159",
@@ -8976,7 +8976,7 @@
             "message": "",
             "filename": "449_saidaWan_Saeed-Mohamadi_20260927-2159.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20260927-2200",
+            "edit_date": "20261003-1703",
             "size": 11,
             "document_id": 5895654890859929868
         },
@@ -8999,6 +8999,26 @@
             "edit_date": "20261002-1904",
             "size": 3,
             "document_id": 5882007052456305023
+        },
+        "451": {
+            "id": "451",
+            "title": "خۆزگە بەو ڕۆژە",
+            "performer": "نادیار",
+            "duration": 337,
+            "date": "20261003-0936",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "674",
+            "message": "خۆزگە بەو ڕۆژە کە لەو مەنزڵە وێرانە دەڕۆم\nوەکوو مەل لەو قەفەز و دانە بەرەو لانە دەڕۆم\nگەرچی لەو ‌ڕێیە دەزانم کە غەریب نابەڵەدە\nمن بە بۆنی سەری ئەو زولفە پەرێشانە دەڕۆم\nحەقیقی\n~>",
+            "filename": "451_saidaWan_20261003-0936.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20261003-0954",
+            "size": 6,
+            "document_id": 5911326530738332013
         }
     },
     "map_msg_id": {
@@ -9451,9 +9471,10 @@
         "669": "447",
         "670": "448",
         "671": "449",
-        "673": "450"
+        "673": "450",
+        "674": "451"
     },
     "general_info": {
-        "last_internal_id": 450
+        "last_internal_id": 451
     }
 }
