@@ -9099,6 +9099,46 @@
             "edit_date": "20261016-2109",
             "size": 5,
             "document_id": 5951929717035639606
+        },
+        "456": {
+            "id": "456",
+            "title": "Bimnasêne - Dler Kamangar",
+            "performer": "Dler Kamangar",
+            "duration": 296,
+            "date": "20261029-1910",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "680",
+            "message": "",
+            "filename": "456_saidaWan_Dler-Kamangar_20261029-1910.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20261030-1939",
+            "size": 10,
+            "document_id": 5783041479719002322
+        },
+        "457": {
+            "id": "457",
+            "title": "گلباران",
+            "performer": "Poran",
+            "duration": 332,
+            "date": "20261030-2125",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "681",
+            "message": "گلباران\n~>\nپوران",
+            "filename": "457_saidaWan_Poran_20261030-2125.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20261030-2143",
+            "size": 6,
+            "document_id": 5976777674801028469
         }
     },
     "map_msg_id": {
@@ -9556,9 +9596,11 @@
         "675": "452",
         "676": "453",
         "678": "454",
-        "679": "455"
+        "679": "455",
+        "680": "456",
+        "681": "457"
     },
     "general_info": {
-        "last_internal_id": 455
+        "last_internal_id": 457
     }
 }
