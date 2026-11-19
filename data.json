@@ -1802,8 +1802,8 @@
         },
         "91": {
             "id": "91",
-            "title": "Hasan Zirak & Mohamad Mamle & Aziz Mamle",
-            "performer": "@kurdgraphi",
+            "title": "لەرزانە",
+            "performer": "Hasan Zirak & mamle",
             "duration": 269,
             "date": "20241115-1020",
             "author_name": "Amin Kareshi",
@@ -1813,10 +1813,10 @@
                 "name": "سەیدەوان"
             },
             "msg_id": "244",
-            "message": "🎙 حەسەن زیرەک & موحەمەد ماملێ & عەزیز ماملێ",
-            "filename": "91_saidaWan_Hasan-Zirak-Mohamad-Mamle-Aziz-Mamle_kurdgraphi_20241115-1020.mp3",
+            "message": "🎙 حەسەن زیرەک\n🎙 موحەمەد ماملێ\n🎙 عەزیز ماملێ",
+            "filename": "91_saidaWan_Hasan-Zirak-mamle_20241115-1020.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20241115-2145",
+            "edit_date": "20261118-0006",
             "size": 5,
             "document_id": 5875405880995877707
         },
@@ -1904,7 +1904,7 @@
             "id": "96",
             "title": "Vako Nay Kon Konem Jargem",
             "performer": "Adnan Karim",
-            "duration": 361,
+            "duration": 360,
             "date": "20241118-2313",
             "author_name": "Mohsen",
             "channel": {
@@ -1916,7 +1916,7 @@
             "message": "~>",
             "filename": "96_saidaWan_Vako-Nay-Kon-Konem-Jargem_Adnan-Karim_20241118-2313.mp3",
             "mime_type": "audio/mpeg",
-            "edit_date": "20241219-2223",
+            "edit_date": "20261118-0009",
             "size": 8,
             "document_id": 5899933146438178036
         },
@@ -9219,6 +9219,46 @@
             "edit_date": "20261116-1520",
             "size": 13,
             "document_id": 6041726037107156092
+        },
+        "462": {
+            "id": "462",
+            "title": "Serdemek",
+            "performer": "Nasr Razazi",
+            "duration": 379,
+            "date": "20261118-0635",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "689",
+            "message": "سەردەمێک بوو بێ نەغمە بوو باغچەی ژیانم\nبێ ورتە بوو ناو هێلانەی بولبولەکانم\nلەرەی دەنگی شادمانی و نەشئەم خنکابوو\nشەپۆلی بای بەرە و جۆشم مەنگ ڕاوەستابوو\nگۆران\n~>\nرەزازی",
+            "filename": "462_saidaWan_Serdemek_Nasr-Razazi_20261118-0635.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20261118-1108",
+            "size": 7,
+            "document_id": 6048762061121396212
+        },
+        "463": {
+            "id": "463",
+            "title": "Azizm",
+            "performer": "Marziyah Fariqi",
+            "duration": 299,
+            "date": "20261118-1450",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "690",
+            "message": "",
+            "filename": "463_saidaWan_Azizm_Marziyah-Fariqi_20261118-1450.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20261118-1451",
+            "size": 5,
+            "document_id": 5822070178250230130
         }
     },
     "map_msg_id": {
@@ -9682,9 +9722,11 @@
         "683": "458",
         "685": "459",
         "686": "460",
-        "688": "461"
+        "688": "461",
+        "689": "462",
+        "690": "463"
     },
     "general_info": {
-        "last_internal_id": 461
+        "last_internal_id": 463
     }
 }
