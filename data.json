@@ -9259,6 +9259,26 @@
             "edit_date": "20261118-1451",
             "size": 5,
             "document_id": 5822070178250230130
+        },
+        "464": {
+            "id": "464",
+            "title": "میوانی من بێ",
+            "performer": "SayedAli Sardashti",
+            "duration": 287,
+            "date": "20261120-1130",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "691",
+            "message": "لادە لادە لادە توخدا لادە بۆ ماڵی ئێمە!!\nجوانە هەر لە تۆ جوانە ئەو گوڵ و گوارە و غەزێمە\n~>",
+            "filename": "464_saidaWan_SayedAli-Sardashti_20261120-1130.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20261120-1135",
+            "size": 8,
+            "document_id": 6039880932041695014
         }
     },
     "map_msg_id": {
@@ -9724,9 +9744,10 @@
         "686": "460",
         "688": "461",
         "689": "462",
-        "690": "463"
+        "690": "463",
+        "691": "464"
     },
     "general_info": {
-        "last_internal_id": 463
+        "last_internal_id": 464
     }
 }
